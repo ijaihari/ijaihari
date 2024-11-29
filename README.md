@@ -1,8 +1,5 @@
 <h1 align="center">Hello World, I'm JAI HARI NATARAJ</h1>
 <h3 align="center">A passionate Web Developer | Proficient in React JS | Agile & Scrum Expertise | Open to Opportunities</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ijaihari&label=Profile%20views&color=0e75b6&style=flat" alt="ijaihari" /> </p>
-
 - 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **sjaiharinataraj@gmail.com**
