@@ -1,5 +1,6 @@
 <h1 align="center">Hello World, I'm JAI HARI NATARAJ</h1>
 <h3 align="center">A passionate Web Developer | Proficient in React JS | Agile & Scrum Expertise | Open to Opportunities</h3>
+
 - 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **sjaiharinataraj@gmail.com**
