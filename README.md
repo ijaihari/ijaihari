@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://ijaihari.github.io/portfolio/](https://ijaihari.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://ijaihari.github.io/projects/](https://ijaihari.github.io/projects/)
 
 - 📫 How to reach me **sjaiharinataraj@gmail.com**
 
