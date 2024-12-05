@@ -1,5 +1,14 @@
 <h1 align="center">Hello World, I'm JAI HARI NATARAJ</h1>
-<h3 align="center">A passionate Web Developer | Proficient in React JS | Agile & Scrum Expertise | Open to Opportunities</h3>
+<h3 align="center">Hi! I'm a passionate web developer with a strong foundation in building responsive and user-friendly web applications. My journey in web development began with mastering HTML, CSS, and React.js, and I’ve since expanded my skill set to include Agile methodologies, enabling me to deliver projects efficiently in collaborative environments.
+
+💡 𝗪𝗵𝗮𝘁 𝗜 𝗕𝗿𝗶𝗻𝗴 𝘁𝗼 𝘁𝗵𝗲 𝗧𝗮𝗯𝗹𝗲 :
+• Expertise: React.js, JavaScript, HTML, CSS, Git, GitHub .
+• Proficiency in Agile and Scrum methodologies, enabling me to collaborate effectively within development teams.
+
+🔍 𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗙𝗼𝗿 : Opportunities to contribute to innovative projects where I can hone my skills and grow as a professional.
+
+Feel free to connect with me! Let's discuss how I can add value to your team and projects.
+𝗘𝗺𝗮𝗶𝗹: 𝘀𝗷𝗮𝗶𝗵𝗮𝗿𝗶𝗻𝗮𝘁𝗮𝗿𝗮𝗷@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 </h3>
 
 - 🌱 I’m currently learning **MERN STACK**
 
