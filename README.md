@@ -2,7 +2,7 @@
 Hello World, I'm JAI HARI NATARAJ<br><br>I'm a passionate web developer with a strong foundation in building responsive and user-friendly web applications. My journey in web development began with mastering HTML, CSS, JavaScript and React.js, and I’ve since expanded my skill set to include Agile methodologies, enabling me to deliver projects efficiently in collaborative environments.<br><br>💡 𝗪𝗵𝗮𝘁 𝗜 𝗕𝗿𝗶𝗻𝗴 𝘁𝗼 𝘁𝗵𝗲 𝗧𝗮𝗯𝗹𝗲 :<br>• Expertise: React.js, JavaScript, HTML, CSS, Git, GitHub .<br>• Proficiency in Agile and Scrum methodologies, enabling me to collaborate effectively within development teams.<br><br>🔍 𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗙𝗼𝗿 : Opportunities to contribute to innovative projects where I can hone my skills and grow as a professional.<br><br>👨‍💻 All of my projects are available at https://ijaihari.github.io/portfolio/<br><br>📫 How to reach me sjaiharinataraj@gmail.com
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/ijaihari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jaihari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ijaihari) 
 
 # 💻 Tech Stack:
