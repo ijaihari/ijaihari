@@ -1,9 +1,32 @@
-# About Me
-Hello World, I'm Jai Hari Nataraj<br><br>I'm a passionate front-end developer with a strong foundation in building responsive and user-friendly web applications. My journey in web development began with mastering HTML, CSS, JavaScript ES6, Tailwind CSS and React.js, and I’ve since expanded my skill set to include Agile methodologies, enabling me to deliver projects efficiently in collaborative environments.<br><br> 𝗪𝗵𝗮𝘁 𝗜 𝗕𝗿𝗶𝗻𝗴 𝘁𝗼 𝘁𝗵𝗲 𝗧𝗮𝗯𝗹𝗲 :<br>• Expertise: React.js, Redux, SASS, Tailwind CSS, JavaScript ES6+, HTML5, CSS3, Git, GitHub .<br>• Proficiency in Agile and Scrum methodologies, enabling me to collaborate effectively within development teams.<br><br> 𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗙𝗼𝗿 : Opportunities to contribute to innovative projects where I can hone my skills and grow as a professional.<br><br> All of my projects are available at https://jaihari.dev<br><br> How to reach me sjaiharinataraj@gmail.com
+> # Hello, I'm Jai Hari Nataraj, A Data Analyst 
+![Profile Views](https://komarev.com/ghpvc/?username=ijaihari&label=Profile%20Views&color=blue&style=for-the-badge)
 
+<p align='justify'>
+I work with data to solve real problems, answer real questions, and turn information into decisions. My approach is built on understanding context, identifying what matters, and extracting insights that drive progress. I explore patterns, uncover signals hidden within the noise, and translate data into clarity rather than just dashboards. I focus on clarity, decisions, and real impact instead of producing visuals for the sake of visuals.
+</p>
 
-# Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ijaihari) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ijaihari1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ijaihari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sjaiharinataraj@gmail.com) 
+## What I Work With
 
-# Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Data Analysis:** Excel | SQL | Python | Pandas | NumPy  
+**Dashboards & Reporting:** Power BI | Looker Studio | Cognos Analytics  
+**Excel Skills:** Pivot Tables | VLOOKUP | XLOOKUP  
+**Focus:** Data Cleaning • Dynamic Insights • Actionable Outcomes
+
+## Reach Out & Socials
+
+**Email** sjaiharinataraj@gmail.com &nbsp;
+**Portfolio** [jaihari.dev](jaihari.dev) <br/> 
+**LinkedIn** [jaihari](https://www.linkedin.com/in/jaihari/) &nbsp; 
+**X** [@ijahari](www.x.com/ijaihari)
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![IBM Cognos Analytics](https://img.shields.io/badge/Cognos_Analytics-EA0000?style=for-the-badge&logo=ibm&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
