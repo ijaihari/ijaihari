@@ -1,4 +1,4 @@
-> # Hello, I'm Jai Hari Nataraj, A Data Analyst 
+> # Hello, I'm Jai Hari Nataraj, A Data Analyst
 ![Profile Views](https://komarev.com/ghpvc/?username=ijaihari&label=Profile%20Views&color=blue&style=for-the-badge)
 
 <p align='justify'>
@@ -7,17 +7,16 @@ I work with data to solve real problems, answer real questions, and turn informa
 
 ## What I Work With
 
-**Data Analysis:** Excel | SQL | Python | Pandas | NumPy  
-**Dashboards & Reporting:** Power BI | Looker Studio | Cognos Analytics  
-**Excel Skills:** Pivot Tables | VLOOKUP | XLOOKUP  
-**Focus:** Data Cleaning • Dynamic Insights • Actionable Outcomes
+**Data Analysis:** Excel, SQL, Python, Pandas, NumPy  
+**Dashboards & Reporting:** Power BI, Looker Studio, Cognos Analytics  
+**Excel Skills:** Pivot Tables, VLookup, HLookup, XLookup, Charts
 
 ## Reach Out & Socials
 
 **Email** sjaiharinataraj@gmail.com &nbsp;
-**Portfolio** [jaihari.dev](jaihari.dev) <br/> 
+**Portfolio** [jaihari.dev](https://www.jaihari.dev) <br/> 
 **LinkedIn** [jaihari](https://www.linkedin.com/in/jaihari/) &nbsp; 
-**X** [@ijahari](www.x.com/ijaihari)
+**X** [@ijahari](https://www.x.com/ijaihari)
 
 ## Tech Stack
 
