@@ -16,7 +16,7 @@ I work with data to solve real problems, answer real questions, and turn informa
 **Email** sjaiharinataraj@gmail.com &nbsp;
 **Portfolio** [jaihari.dev](https://www.jaihari.dev) <br/> 
 **LinkedIn** [jaiharinataraj](https://www.linkedin.com/in/jaiharinataraj/) &nbsp;
-**Instagram** [jaiharinataraj](https://www.instagram.com/jaiharinataraj/)
+**X** updating soon
 
 ## Tech Stack
 
