@@ -1,4 +1,4 @@
-> # Hello, I'm Jai Hari Nataraj, A Data Analyst
+# Hello, I'm Jai Hari Nataraj, A Data Analyst
 ![Profile Views](https://komarev.com/ghpvc/?username=ijaihari&label=Profile%20Views&color=blue&style=for-the-badge)
 
 <p align='justify'>
