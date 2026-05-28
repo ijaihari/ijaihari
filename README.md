@@ -13,10 +13,8 @@ I work with data to solve real problems, answer real questions, and turn informa
 
 ## Reach Out & Socials
 
-**Email** sjaiharinataraj@gmail.com &nbsp;
-**Portfolio** [jaihari.dev](https://www.jaihari.dev) <br/> 
-**LinkedIn** [jaihari](https://www.linkedin.com/in/jaihari/) &nbsp;
-**X** [ijaihari](https://x.com/ijaihari) &nbsp; **Instagram** [ijaihari](https://www.instagram.com/ijaihari/)
+**Email** sjaiharinataraj@gmail.com <br/> 
+**Portfolio** [jaihari.dev](https://www.jaihari.dev) &nbsp; **LinkedIn** [jaihari](https://www.linkedin.com/in/jaihari/) &nbsp; **X** [ijaihari](https://x.com/ijaihari)
 
 ## Tech Stack
 
